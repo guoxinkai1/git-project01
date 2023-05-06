@@ -19,5 +19,6 @@ public class App {
         System.out.println("Hello Git! gxk master first modify!");
         System.out.println("Hello Git! gxk master first modify!！");
         System.out.println("Hello Git! gxk master first modify!");
+        System.out.println("Test pull from GitHub");
     }
 }
